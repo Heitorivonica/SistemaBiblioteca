@@ -36,7 +36,6 @@ src/
 - [ ] Validações de regras de negócio (ex: devolução por usuário)
 - [ ] Relatórios com Stream API (livros mais emprestados, usuários em atraso)
 - [ ] Testes unitários das classes de serviço
-- [ ] Tratamento de exceções personalizadas
 - [ ] Documentação Javadoc nas classes principais
 - [ ] Refinar o `Main.java` com um menu interativo via console
 
