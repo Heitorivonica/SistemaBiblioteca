@@ -1,7 +1,7 @@
 package Enums;
 
 public enum Status {
-    ATIVO,
-    ENTREGUE,
+    DISPONIVEL,
+    DEVOLVIDO,
     ATRASADO;
 }

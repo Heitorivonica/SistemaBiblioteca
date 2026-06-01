@@ -26,7 +26,7 @@ public class BibliotecaService {
                 emprestimo.setDataEmprestimo(hoje);
                 emprestimo.setDataDevolucaoPrevista(dataPrevista);
                 emprestimo.setDataDevolucaoReal(null);
-                emprestimo.setStatus(Status.ATIVO);
+                emprestimo.setStatus(Status.DISPONIVEL);
                 repository.adicionarEmprestimo(emprestimo);
                 lvro.setDisponivel(false);
                 System.out.println("Emprestimo realizado com sucesso ");
