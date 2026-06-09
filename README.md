@@ -53,7 +53,7 @@ src/
 | ALUNO | R$ 3,50 | 20 dias | Sim |
 | PROFESSOR | R$ 2,50 | 30 dias | Sim |
 | DIARIA | R$ 7,75 | 1 dia | Sim |
-| CIENTISTA | R$ 0,00 | 45 dias | Sim |
+| CIENTISTA | R$ 0,00 | 45 dias | Não |
 
 ---
 
